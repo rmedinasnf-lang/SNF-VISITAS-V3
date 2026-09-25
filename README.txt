@@ -1,0 +1,1 @@
+Crear repositorio NUEVO SNF-VISITAS-V3 y Azure Static Web App NUEVA. Subir estos archivos a la raiz. Preset Custom; App location /; API vacio; Output vacio. Confirmar encabezado VERSION 3.0.
